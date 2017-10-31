@@ -1,0 +1,9 @@
+c:\users\p203\documents\visual studio 2017\Projects\SelectTest\SelectTest\bin\Debug\SelectTest.exe.config
+c:\users\p203\documents\visual studio 2017\Projects\SelectTest\SelectTest\bin\Debug\SelectTest.exe
+c:\users\p203\documents\visual studio 2017\Projects\SelectTest\SelectTest\bin\Debug\SelectTest.pdb
+c:\users\p203\documents\visual studio 2017\Projects\SelectTest\SelectTest\obj\Debug\SelectTest.csprojResolveAssemblyReference.cache
+c:\users\p203\documents\visual studio 2017\Projects\SelectTest\SelectTest\obj\Debug\SelectTest.btnSend.resources
+c:\users\p203\documents\visual studio 2017\Projects\SelectTest\SelectTest\obj\Debug\SelectTest.Properties.Resources.resources
+c:\users\p203\documents\visual studio 2017\Projects\SelectTest\SelectTest\obj\Debug\SelectTest.csproj.GenerateResource.Cache
+c:\users\p203\documents\visual studio 2017\Projects\SelectTest\SelectTest\obj\Debug\SelectTest.exe
+c:\users\p203\documents\visual studio 2017\Projects\SelectTest\SelectTest\obj\Debug\SelectTest.pdb

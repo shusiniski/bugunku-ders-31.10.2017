@@ -1,0 +1,9 @@
+c:\users\p203\documents\visual studio 2017\Projects\FirstCrud\FirstCrud\bin\Debug\FirstCrud.exe.config
+c:\users\p203\documents\visual studio 2017\Projects\FirstCrud\FirstCrud\bin\Debug\FirstCrud.exe
+c:\users\p203\documents\visual studio 2017\Projects\FirstCrud\FirstCrud\bin\Debug\FirstCrud.pdb
+c:\users\p203\documents\visual studio 2017\Projects\FirstCrud\FirstCrud\obj\Debug\FirstCrud.csprojResolveAssemblyReference.cache
+c:\users\p203\documents\visual studio 2017\Projects\FirstCrud\FirstCrud\obj\Debug\FirstCrud.Form1.resources
+c:\users\p203\documents\visual studio 2017\Projects\FirstCrud\FirstCrud\obj\Debug\FirstCrud.Properties.Resources.resources
+c:\users\p203\documents\visual studio 2017\Projects\FirstCrud\FirstCrud\obj\Debug\FirstCrud.csproj.GenerateResource.Cache
+c:\users\p203\documents\visual studio 2017\Projects\FirstCrud\FirstCrud\obj\Debug\FirstCrud.exe
+c:\users\p203\documents\visual studio 2017\Projects\FirstCrud\FirstCrud\obj\Debug\FirstCrud.pdb

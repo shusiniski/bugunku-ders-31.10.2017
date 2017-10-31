@@ -1,0 +1,9 @@
+c:\users\p203\documents\visual studio 2017\Projects\Select Test\Select Test\bin\Debug\Select Test.exe.config
+c:\users\p203\documents\visual studio 2017\Projects\Select Test\Select Test\bin\Debug\Select Test.exe
+c:\users\p203\documents\visual studio 2017\Projects\Select Test\Select Test\bin\Debug\Select Test.pdb
+c:\users\p203\documents\visual studio 2017\Projects\Select Test\Select Test\obj\Debug\Select Test.csprojResolveAssemblyReference.cache
+c:\users\p203\documents\visual studio 2017\Projects\Select Test\Select Test\obj\Debug\Select_Test.Form1.resources
+c:\users\p203\documents\visual studio 2017\Projects\Select Test\Select Test\obj\Debug\Select_Test.Properties.Resources.resources
+c:\users\p203\documents\visual studio 2017\Projects\Select Test\Select Test\obj\Debug\Select Test.csproj.GenerateResource.Cache
+c:\users\p203\documents\visual studio 2017\Projects\Select Test\Select Test\obj\Debug\Select Test.exe
+c:\users\p203\documents\visual studio 2017\Projects\Select Test\Select Test\obj\Debug\Select Test.pdb
